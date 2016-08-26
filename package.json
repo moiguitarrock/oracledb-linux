@@ -1,0 +1,27 @@
+{
+  "name": "oracledb-linux",
+  "version": "1.0.0",
+  "description": "use vagrant to config a node project to connect with an oracle database",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/moiguitarrock/oracledb-linux.git"
+  },
+  "author": "moises castellar",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^0.13.1",
+    "body-parser": "^1.15.2",
+    "express": "^4.14.0",
+    "kue": "^0.11.1",
+    "log4js": "^0.6.38",
+    "oracledb": "^1.11.0"
+  },
+  "bugs": {
+    "url": "https://github.com/moiguitarrock/oracledb-linux/issues"
+  },
+  "homepage": "https://github.com/moiguitarrock/oracledb-linux#readme"
+}
